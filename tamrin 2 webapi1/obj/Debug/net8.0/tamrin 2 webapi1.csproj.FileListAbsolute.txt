@@ -1,0 +1,33 @@
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\bin\Debug\net8.0\appsettings.json
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\bin\Debug\net8.0\tamrin 2 webapi1.exe
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\bin\Debug\net8.0\tamrin 2 webapi1.deps.json
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\bin\Debug\net8.0\tamrin 2 webapi1.runtimeconfig.json
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\bin\Debug\net8.0\tamrin 2 webapi1.dll
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\bin\Debug\net8.0\tamrin 2 webapi1.pdb
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\tamrin 2 webapi1.csproj.AssemblyReference.cache
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\tamrin 2 webapi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\tamrin 2 webapi1.AssemblyInfoInputs.cache
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\tamrin 2 webapi1.AssemblyInfo.cs
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\tamrin 2 webapi1.csproj.CoreCompileInputs.cache
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\tamrin 2 webapi1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\tamrin 2 webapi1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\staticwebassets\msbuild.tamrin 2 webapi1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\staticwebassets\msbuild.build.tamrin 2 webapi1.props
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.tamrin 2 webapi1.props
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.tamrin 2 webapi1.props
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\scopedcss\bundle\tamrin 2 webapi1.styles.css
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\tamrin 2.178CEF2E.Up2Date
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\tamrin 2 webapi1.dll
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\refint\tamrin 2 webapi1.dll
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\tamrin 2 webapi1.pdb
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\tamrin 2 webapi1.genruntimeconfig.cache
+C:\Users\Click\Desktop\c#\tamrin 2 webapi1\obj\Debug\net8.0\ref\tamrin 2 webapi1.dll

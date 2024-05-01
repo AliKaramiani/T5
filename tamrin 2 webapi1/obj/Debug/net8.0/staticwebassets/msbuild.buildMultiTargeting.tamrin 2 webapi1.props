@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\tamrin 2 webapi1.props" />
+</Project>
